@@ -1,0 +1,24 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: crashloop-example
+  labels:
+    app: crashlooplearning
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: crashlooplearning
+  template:
+    metadata:
+      labels:
+        app: crashlooplearning
+    spec:
+      containers:
+      - name: crashlooplearning
+        ##  image: abeshith/flask-app:latest
+        image: abeshith/flask-app:v1
+        ports:
+        - containerPort: 8010
+
