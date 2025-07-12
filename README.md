@@ -1,3 +1,22 @@
+# MACHINELEARNING-PIPELINE
+
+![Last Commit](https://img.shields.io/badge/last%20commit-today-brightgreen)
+![Python](https://img.shields.io/badge/python-84.2%25-blue)
+![Languages](https://img.shields.io/badge/languages-4-orange)
+
+## Built with the tools and technologies:
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
 # Kubernetes Fundamentals
 
 ## What is Kubernetes?
